@@ -26,7 +26,7 @@ This project was developed as a final assignment for the course *Algorithms and 
 ## Project Structure
 
 ```bash
-Calculatrice/
+custom-stack-calculator/
 ├── src/
 │   ├── Calculator.java                      # Main GUI and controller logic
 │   ├── expressionsInfixes/
