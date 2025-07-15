@@ -70,6 +70,14 @@ java -cp src Calculator
 
 ---
 
+## Author
+
+Liliane Demers  
+Junior Software Developer  
+[LinkedIn – Liliane Demers](https://www.linkedin.com/in/lilianedemers)
+
+---
+
 ## License
 
 This project is open-source and available under the MIT License.
